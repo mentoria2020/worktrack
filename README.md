@@ -1,2 +1,4 @@
-# worktrack
-Aplicativo para gerenciar e monitorar o desenvolvimento de projetos de arquitetura.
+Sprint #1 - 15/02 - Release V1.0
+
+#Features:
+- List all projects;
